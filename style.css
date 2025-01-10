@@ -200,17 +200,6 @@
   padding: 20px 0;
 }
 
-.timeline::before {
-  /* Garis vertikal pada timeline */
-  content: "";
-  position: absolute;
-  left: 50%;
-  width: 2px;
-  height: 100%;
-  background: #5990c7; /* Warna garis */
-}
-
-
 .timeline-item {
   margin-bottom: 30px;
   position: relative;
